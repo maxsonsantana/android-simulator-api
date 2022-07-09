@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://i.pinimg.com/originals/35/58/07/3558073aaa38e206eaa32611ad39fb6d.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -19,8 +19,8 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Mineirão",
+      "imagem": "https://i.pinimg.com/originals/21/a7/45/21a74553e2b498deb0b65794fca7f976.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -36,8 +36,8 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Morumbi",
+      "imagem": "https://i.pinimg.com/564x/b4/2a/65/b42a659c3fdde0c11a2ee9d44d4be151.jpg"
     },
     "mandante": {
       "nome": "Brasil",
